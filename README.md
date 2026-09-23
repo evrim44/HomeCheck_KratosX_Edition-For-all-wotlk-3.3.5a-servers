@@ -1,6 +1,7 @@
 # HomeCheck_KratosX_Edition!!FOR-ALL-Wotlk-3.3.5a-servers
 
 [!CAUTION]
+
 !!! PLEASE NOTE: You can use this version on an WOTLK 3.3.5a server that does not natively reset your cooldowns after a boss ill or a raid wipe.
 If you want the Whitemane Frostmourne Server Version, you have to donwload the other Version: 
 
