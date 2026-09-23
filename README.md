@@ -54,7 +54,7 @@ Features & Enhancements
 <img width="869" height="586" alt="2" src="https://github.com/user-attachments/assets/849b7b95-85be-494b-a890-6adf5306244b" />
 
 
-# Installation
+## 🛠️ Installation
 
 1. Download this repository as a `.zip` file.
 2. Extract and only drag the "Homecheck" folder into your World of Warcraft directory: `Interface\AddOns\`.
