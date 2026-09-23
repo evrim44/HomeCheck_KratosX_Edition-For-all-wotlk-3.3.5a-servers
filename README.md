@@ -1,4 +1,4 @@
-# HomeCheck_KratosX_Edition!!FOR-ALL-Wotlk-3.3.5a-servers
+# HomeCheck_KratosX_Edition !!FOR-ALL-Wotlk-3.3.5a-servers!!
 
 > [!WARNING]
 > **PLEASE NOTE:** You can use this version on any WOTLK 3.3.5a server that does not natively reset your cooldowns after a boss kill or a raid wipe.
