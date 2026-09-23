@@ -1,9 +1,9 @@
 # HomeCheck_KratosX_Edition!!FOR-ALL-Wotlk-3.3.5a-servers
 
-[!CAUTION]
-
-!!! PLEASE NOTE: You can use this version on an WOTLK 3.3.5a server that does not natively reset your cooldowns after a boss ill or a raid wipe.
-If you want the Whitemane Frostmourne Server Version, you have to donwload the other Version: 
+> [!CAUTION]
+> **PLEASE NOTE:** You can use this version on any WOTLK 3.3.5a server that does not natively reset your cooldowns after a boss kill or a raid wipe.
+> 
+> If you want the **Whitemane Frostmourne Server Version** (with automatic DBM reset), you have to download the other version instead: 
 
 
 Welcome to the KratosX Edition of HomeCheck. This version introduces crucial performance optimizations, automated tank filtering, dynamic talent tracking, and visual raid status indicators.
