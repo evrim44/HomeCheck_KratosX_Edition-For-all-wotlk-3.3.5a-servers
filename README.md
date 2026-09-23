@@ -5,6 +5,9 @@
 > 
 > If you want the **Whitemane Frostmourne Server Version** (with automatic DBM reset), you have to download the other version instead [here](https://github.com/evrim44/HomeCheck_KratosX_Edition-ONLY-for-Whitemane-Frostmourne-3.3.5a)
 
+<img width="622" height="560" alt="WoWScrnShot_092326_210208" src="https://github.com/user-attachments/assets/dcd1dbb4-506c-4f65-ab61-702d3c06651d" />
+
+
 
 Welcome to the KratosX Edition of HomeCheck. This version introduces crucial performance optimizations, automated tank filtering, dynamic talent tracking, and visual raid status indicators.
 
