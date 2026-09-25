@@ -19,9 +19,9 @@ Features & Enhancements
 
 # 2. Dynamic Hammer of Justice (HoJ) Tracking
 - Full support added for the *Improved Hammer of Justice
-  0/2 Points:** 60 Seconds
-  1/2 Points:** 50 Seconds
-  2/2 Points:** 40 Seconds
+- 0/2 Points:  **60 Seconds**
+- 1/2 Points:  **50 Seconds**
+- 2/2 Points:  **40 Seconds**
 
 # 3. Lay on Hands (LoH) Overhaul
 - Dedicated Visibility Button: Added a dedicated toggle button specifically for *Improved Lay on Hands*, allowing users to filter and show only this specific tracker if desired.
@@ -39,9 +39,9 @@ Features & Enhancements
 
 # 5. New Tank Cooldowns & "Tanks Only" Filtering
 - Expanded Spell Database: Added full tracking support for essential defensive Tank cooldowns across multiple classes:
-       - Warrior: Shield Block
-          -Druid: Survival Instincts
-   -Death Knight: Unbreakable Armor
+- **Warrior**: Shield Block
+- **Druid**: Survival Instincts
+- **Death Knight**: Unbreakable Armor
 - Tanks Only Filter: Integrated these newly added defensive abilities, with the "Tanks only Toggle"
 
 
