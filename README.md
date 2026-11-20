@@ -63,6 +63,7 @@ Features & Enhancements
 2. Extract and only drag the "Homecheck" folder into your World of Warcraft directory: `Interface\AddOns\`.
 3. Crucial: Ensure the folder is named exactly HomeCheck
 4. If you had previous versions installed try deleting settings file: WTF\Account\\<ACCOUNT_NAME\>\SavedVariables\HomeCheck.lua
+5. Warperia Link https://warperia.com/addon-wotlk/homecheck-kratosx-edition-for-all-wotlk-3-3-5a-servers/
 
 # Credits & License
 Based on the original Author Homerocker *HomeCheck*  core functionality. Modified by Kratosx, optimized, and heavily expanded with advanced tracking mechanics and server-side fixes. All bundled libraries (Ace3, LibGroupTalents) belong to their respective authors.
