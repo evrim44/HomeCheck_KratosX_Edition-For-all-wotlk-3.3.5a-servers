@@ -52,7 +52,7 @@ Features & Enhancements
 <img width="805" height="523" alt="3" src="https://github.com/user-attachments/assets/ca6d237d-571d-41e3-b892-6a3d5ec985e9" />
 
 
-# 6. Visuall changes
+# 7. Visuall changes
 
 <img width="869" height="586" alt="2" src="https://github.com/user-attachments/assets/849b7b95-85be-494b-a890-6adf5306244b" />
 
