@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="ecYNsbDDCuR5CYyE7ca2B2pzp3tMwkIs64PmzNjg9eI" />
-
 # HomeCheck_KratosX_Edition !!FOR-ALL-Wotlk-3.3.5a-servers!!
 
 > [!WARNING]
